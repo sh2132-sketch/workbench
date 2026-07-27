@@ -1,0 +1,15 @@
+{
+  "name": "我的工作台",
+  "short_name": "工作台",
+  "description": "计划 · 打卡 · 时间轴 · 影音书籍 · 出行 · 视图",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5f2",
+  "theme_color": "#e07a5f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
